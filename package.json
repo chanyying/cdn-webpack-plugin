@@ -1,0 +1,23 @@
+{
+  "name": "html-body-cdn-webpack-plugin",
+  "version": "0.0.2",
+  "description": "Add the CDN to the back of the body.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chanyying/cdnWebpackBodyAfter.git"
+  },
+  "keywords": [
+    "cdn",
+    "webpack"
+  ],
+  "author": "caihanyong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chanyying/cdnWebpackBodyAfter/issues"
+  },
+  "homepage": "https://github.com/chanyying/cdnWebpackBodyAfter#readme"
+}
